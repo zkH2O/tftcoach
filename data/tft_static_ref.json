@@ -1,0 +1,3852 @@
+{
+  "timestamp": "2025-12-28T18:13:26.577564",
+  "set_number": 16,
+  "champions": {
+    "tft5_emblemarmorykey": {
+      "name": "Tome of Traits",
+      "cost": 8,
+      "traits": [],
+      "stats": {
+        "armor": 10.0,
+        "attackSpeed": 1.0,
+        "critChance": null,
+        "critMultiplier": 0.0,
+        "damage": null,
+        "hp": 10.0,
+        "initialMana": 0,
+        "magicResist": 10.0,
+        "mana": 100,
+        "range": 0
+      }
+    },
+    "tft_armorykeycompleted": {
+      "name": "Completed Item Anvil",
+      "cost": 8,
+      "traits": [],
+      "stats": {
+        "armor": 10.0,
+        "attackSpeed": 1.0,
+        "critChance": null,
+        "critMultiplier": 0.0,
+        "damage": 70.0,
+        "hp": 10.0,
+        "initialMana": 0,
+        "magicResist": 10.0,
+        "mana": 100,
+        "range": 0
+      }
+    },
+    "tft_armorykeycomponent": {
+      "name": "Component Anvil",
+      "cost": 8,
+      "traits": [],
+      "stats": {
+        "armor": 10.0,
+        "attackSpeed": 1.0,
+        "critChance": null,
+        "critMultiplier": 0.0,
+        "damage": 70.0,
+        "hp": 10.0,
+        "initialMana": 0,
+        "magicResist": 10.0,
+        "mana": 100,
+        "range": 0
+      }
+    },
+    "tft_armorykeyornn": {
+      "name": "Artifact Item Anvil",
+      "cost": 8,
+      "traits": [],
+      "stats": {
+        "armor": 10.0,
+        "attackSpeed": 1.0,
+        "critChance": null,
+        "critMultiplier": 0.0,
+        "damage": 70.0,
+        "hp": 10.0,
+        "initialMana": 0,
+        "magicResist": 10.0,
+        "mana": 100,
+        "range": 0
+      }
+    },
+    "tft_armorykeysupport": {
+      "name": "Support item anvil",
+      "cost": 8,
+      "traits": [],
+      "stats": {
+        "armor": 10.0,
+        "attackSpeed": 1.0,
+        "critChance": null,
+        "critMultiplier": 0.0,
+        "damage": 70.0,
+        "hp": 10.0,
+        "initialMana": 0,
+        "magicResist": 10.0,
+        "mana": 100,
+        "range": 0
+      }
+    },
+    "tft6_mercenarychest": {
+      "name": "Mercenary Chest",
+      "cost": 11,
+      "traits": [],
+      "stats": {
+        "armor": 0.0,
+        "attackSpeed": null,
+        "critChance": 0.25,
+        "critMultiplier": 1.2999999523162842,
+        "damage": 0.0,
+        "hp": 1.0,
+        "initialMana": 0,
+        "magicResist": null,
+        "mana": 12.0,
+        "range": 0.0
+      }
+    },
+    "tft16_tristana": {
+      "name": "Tristana",
+      "cost": 2,
+      "traits": [
+        "Yordle",
+        "Gunslinger"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 55.0,
+        "hp": 550.0,
+        "initialMana": 0,
+        "magicResist": 20.0,
+        "mana": 50.0,
+        "range": 4.0
+      }
+    },
+    "tft16_lulu": {
+      "name": "Lulu",
+      "cost": 1,
+      "traits": [
+        "Yordle",
+        "Arcanist"
+      ],
+      "stats": {
+        "armor": 15.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 25.0,
+        "hp": 500.0,
+        "initialMana": 20.0,
+        "magicResist": 15.0,
+        "mana": 70.0,
+        "range": 4.0
+      }
+    },
+    "tft16_teemo": {
+      "name": "Teemo",
+      "cost": 2,
+      "traits": [
+        "Yordle",
+        "Longshot"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 35.0,
+        "hp": 550.0,
+        "initialMana": 0,
+        "magicResist": 20.0,
+        "mana": 30.0,
+        "range": 6.0
+      }
+    },
+    "tft16_rumble": {
+      "name": "Rumble",
+      "cost": 1,
+      "traits": [
+        "Yordle",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 45.0,
+        "hp": 700.0,
+        "initialMana": 40.0,
+        "magicResist": 40.0,
+        "mana": 110.0,
+        "range": 1.0
+      }
+    },
+    "tft16_nautilus": {
+      "name": "Nautilus",
+      "cost": 3,
+      "traits": [
+        "Bilgewater",
+        "Juggernaut",
+        "Warden"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 900.0,
+        "initialMana": 60.0,
+        "magicResist": 50.0,
+        "mana": 120.0,
+        "range": 1.0
+      }
+    },
+    "tft16_twistedfate": {
+      "name": "Twisted Fate",
+      "cost": 2,
+      "traits": [
+        "Bilgewater",
+        "Quickstriker"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": null,
+        "hp": 550.0,
+        "initialMana": 0,
+        "magicResist": 20.0,
+        "mana": 3.0,
+        "range": 4.0
+      }
+    },
+    "tft16_gangplank": {
+      "name": "Gangplank",
+      "cost": 3,
+      "traits": [
+        "Bilgewater",
+        "Slayer",
+        "Vanquisher"
+      ],
+      "stats": {
+        "armor": 55.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 45.0,
+        "hp": 850.0,
+        "initialMana": 0,
+        "magicResist": 55.0,
+        "mana": 50.0,
+        "range": 1.0
+      }
+    },
+    "tft16_illaoi": {
+      "name": "Illaoi",
+      "cost": 1,
+      "traits": [
+        "Bilgewater",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 700.0,
+        "initialMana": 40.0,
+        "magicResist": 40.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_missfortune": {
+      "name": "Miss Fortune",
+      "cost": 4,
+      "traits": [
+        "Bilgewater",
+        "Gunslinger"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 55.0,
+        "hp": 800.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 30.0,
+        "range": 4.0
+      }
+    },
+    "tft16_sion": {
+      "name": "Sion",
+      "cost": 2,
+      "traits": [
+        "Noxus",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.550000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 40.0,
+        "mana": 70.0,
+        "range": 1.0
+      }
+    },
+    "tft16_briar": {
+      "name": "Briar",
+      "cost": 1,
+      "traits": [
+        "Noxus",
+        "Slayer",
+        "Juggernaut"
+      ],
+      "stats": {
+        "armor": 35.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 42.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 35.0,
+        "mana": 40.0,
+        "range": 1.0
+      }
+    },
+    "tft16_draven": {
+      "name": "Draven",
+      "cost": 3,
+      "traits": [
+        "Noxus",
+        "Quickstriker"
+      ],
+      "stats": {
+        "armor": 25.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 45.0,
+        "hp": 650.0,
+        "initialMana": 60.0,
+        "magicResist": 25.0,
+        "mana": 100,
+        "range": 4.0
+      }
+    },
+    "tft16_ambessa": {
+      "name": "Ambessa",
+      "cost": 4,
+      "traits": [
+        "Noxus",
+        "Vanquisher"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 1100.0,
+        "initialMana": 0,
+        "magicResist": 60.0,
+        "mana": 20.0,
+        "range": 1.0
+      }
+    },
+    "tft16_zoe": {
+      "name": "Zoe",
+      "cost": 3,
+      "traits": [
+        "Targon"
+      ],
+      "stats": {
+        "armor": 25.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 35.0,
+        "hp": 800.0,
+        "initialMana": 30.0,
+        "magicResist": 25.0,
+        "mana": 60.0,
+        "range": 4.0
+      }
+    },
+    "tft16_leona": {
+      "name": "Leona",
+      "cost": 3,
+      "traits": [
+        "Targon"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 1000.0,
+        "initialMana": 70.0,
+        "magicResist": 60.0,
+        "mana": 120.0,
+        "range": 1.0
+      }
+    },
+    "tft16_aphelios": {
+      "name": "Aphelios",
+      "cost": 2,
+      "traits": [
+        "Targon"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 20.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 20.0,
+        "mana": 40.0,
+        "range": 4.0
+      }
+    },
+    "tft16_taric": {
+      "name": "Taric",
+      "cost": 4,
+      "traits": [
+        "Targon"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 70.0,
+        "hp": 1300.0,
+        "initialMana": 0,
+        "magicResist": 70.0,
+        "mana": 80.0,
+        "range": 1.0
+      }
+    },
+    "tft16_jarvaniv": {
+      "name": "Jarvan IV",
+      "cost": 1,
+      "traits": [
+        "Demacia",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 55.0,
+        "hp": 700.0,
+        "initialMana": 30.0,
+        "magicResist": 40.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_sona": {
+      "name": "Sona",
+      "cost": 1,
+      "traits": [
+        "Demacia",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 15.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 20.0,
+        "hp": 500.0,
+        "initialMana": 0,
+        "magicResist": 15.0,
+        "mana": 30.0,
+        "range": 4.0
+      }
+    },
+    "tft16_garen": {
+      "name": "Garen",
+      "cost": 4,
+      "traits": [
+        "Demacia",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 1200.0,
+        "initialMana": 50.0,
+        "magicResist": 60.0,
+        "mana": 130.0,
+        "range": 1.0
+      }
+    },
+    "tft16_lux": {
+      "name": "Lux",
+      "cost": 4,
+      "traits": [
+        "Demacia",
+        "Arcanist"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 800.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 50.0,
+        "range": 4.0
+      }
+    },
+    "tft16_anivia": {
+      "name": "Anivia",
+      "cost": 1,
+      "traits": [
+        "Freljord",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 500.0,
+        "initialMana": 0,
+        "magicResist": 20.0,
+        "mana": 40.0,
+        "range": 4.0
+      }
+    },
+    "tft16_ashe": {
+      "name": "Ashe",
+      "cost": 2,
+      "traits": [
+        "Freljord",
+        "Quickstriker"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 53.0,
+        "hp": 550.0,
+        "initialMana": 20.0,
+        "magicResist": 20.0,
+        "mana": 80.0,
+        "range": 4.0
+      }
+    },
+    "tft16_braum": {
+      "name": "Braum",
+      "cost": 4,
+      "traits": [
+        "Freljord",
+        "Warden"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 1200.0,
+        "initialMana": 60.0,
+        "magicResist": 60.0,
+        "mana": 120.0,
+        "range": 1.0
+      }
+    },
+    "tft16_lissandra": {
+      "name": "Lissandra",
+      "cost": 4,
+      "traits": [
+        "Freljord",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 800.0,
+        "initialMana": 20.0,
+        "magicResist": 30.0,
+        "mana": 70.0,
+        "range": 4.0
+      }
+    },
+    "tft16_milio": {
+      "name": "Milio",
+      "cost": 3,
+      "traits": [
+        "Ixtal",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 60.0,
+        "range": 4.0
+      }
+    },
+    "tft16_neeko": {
+      "name": "Neeko",
+      "cost": 2,
+      "traits": [
+        "Ixtal",
+        "Arcanist",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 850.0,
+        "initialMana": 15.0,
+        "magicResist": 45.0,
+        "mana": 65.0,
+        "range": 1.0
+      }
+    },
+    "tft16_jinx": {
+      "name": "Jinx",
+      "cost": 3,
+      "traits": [
+        "Zaun",
+        "Gunslinger"
+      ],
+      "stats": {
+        "armor": 25.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 25.0,
+        "mana": 18.0,
+        "range": 4.0
+      }
+    },
+    "tft16_caitlyn": {
+      "name": "Caitlyn",
+      "cost": 1,
+      "traits": [
+        "Piltover",
+        "Longshot"
+      ],
+      "stats": {
+        "armor": 15.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 45.0,
+        "hp": 500.0,
+        "initialMana": 0,
+        "magicResist": 15.0,
+        "mana": 80.0,
+        "range": 6.0
+      }
+    },
+    "tft16_vi": {
+      "name": "Vi",
+      "cost": 2,
+      "traits": [
+        "Piltover",
+        "Zaun",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.8500000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 700.0,
+        "initialMana": 0,
+        "magicResist": 40.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_seraphine": {
+      "name": "Seraphine",
+      "cost": 4,
+      "traits": [
+        "Piltover",
+        "Disruptor"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 800.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 20.0,
+        "range": 4.0
+      }
+    },
+    "tft16_yasuo": {
+      "name": "Yasuo",
+      "cost": 2,
+      "traits": [
+        "Ionia",
+        "Slayer"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 45.0,
+        "hp": 750.0,
+        "initialMana": 0,
+        "magicResist": 45.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_ahri": {
+      "name": "Ahri",
+      "cost": 3,
+      "traits": [
+        "Ionia",
+        "Arcanist"
+      ],
+      "stats": {
+        "armor": 25.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 25.0,
+        "mana": 30.0,
+        "range": 4.0
+      }
+    },
+    "tft16_wukong": {
+      "name": "Wukong",
+      "cost": 4,
+      "traits": [
+        "Ionia",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 1050.0,
+        "initialMana": 30.0,
+        "magicResist": 60.0,
+        "mana": 60.0,
+        "range": 1.0
+      }
+    },
+    "tft16_shen": {
+      "name": "Shen",
+      "cost": 1,
+      "traits": [
+        "Ionia",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 700.0,
+        "initialMana": 30.0,
+        "magicResist": 40.0,
+        "mana": 90.0,
+        "range": 1.0
+      }
+    },
+    "tft16_malzahar": {
+      "name": "Malzahar",
+      "cost": 3,
+      "traits": [
+        "Void",
+        "Disruptor"
+      ],
+      "stats": {
+        "armor": 25.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 25.0,
+        "mana": 35.0,
+        "range": 4.0
+      }
+    },
+    "tft16_reksai": {
+      "name": "Rek'Sai",
+      "cost": 2,
+      "traits": [
+        "Void",
+        "Vanquisher"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.8500000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 750.0,
+        "initialMana": 0,
+        "magicResist": 45.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_chogath": {
+      "name": "Cho'Gath",
+      "cost": 2,
+      "traits": [
+        "Void",
+        "Juggernaut"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 850.0,
+        "initialMana": 40.0,
+        "magicResist": 45.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_kogmaw": {
+      "name": "Kog'Maw",
+      "cost": 1,
+      "traits": [
+        "Void",
+        "Arcanist",
+        "Longshot"
+      ],
+      "stats": {
+        "armor": 15.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 20.0,
+        "hp": 500.0,
+        "initialMana": 0,
+        "magicResist": 15.0,
+        "mana": 30.0,
+        "range": 6.0
+      }
+    },
+    "tft16_annie": {
+      "name": "Annie",
+      "cost": 5,
+      "traits": [
+        "Dark Child",
+        "Arcanist"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 800.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 170.0,
+        "range": 4.0
+      }
+    },
+    "tft16_ornn": {
+      "name": "Ornn",
+      "cost": 5,
+      "traits": [
+        "Blacksmith",
+        "Warden"
+      ],
+      "stats": {
+        "armor": 55.0,
+        "attackSpeed": 0.550000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 70.0,
+        "hp": 900.0,
+        "initialMana": 50.0,
+        "magicResist": 55.0,
+        "mana": 150.0,
+        "range": 1.0
+      }
+    },
+    "tft16_kindred": {
+      "name": "Kindred",
+      "cost": 5,
+      "traits": [
+        "Eternal",
+        "Quickstriker"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 73.0,
+        "hp": 900.0,
+        "initialMana": 80.0,
+        "magicResist": 40.0,
+        "mana": 200.0,
+        "range": 4.0
+      }
+    },
+    "tft16_azir": {
+      "name": "Azir",
+      "cost": 5,
+      "traits": [
+        "Shurima",
+        "Emperor",
+        "Disruptor"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 35.0,
+        "hp": 800.0,
+        "initialMana": 20.0,
+        "magicResist": 30.0,
+        "mana": 40.0,
+        "range": 4.0
+      }
+    },
+    "tft16_zilean": {
+      "name": "Zilean",
+      "cost": 5,
+      "traits": [
+        "Chronokeeper",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 40.0,
+        "hp": 900.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 35.0,
+        "range": 4.0
+      }
+    },
+    "tft16_fiddlesticks": {
+      "name": "Fiddlesticks",
+      "cost": 5,
+      "traits": [
+        "Harvester",
+        "Vanquisher"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 1200.0,
+        "initialMana": 30.0,
+        "magicResist": 60.0,
+        "mana": 70.0,
+        "range": 2.0
+      }
+    },
+    "tft16_shyvana": {
+      "name": "Shyvana",
+      "cost": 5,
+      "traits": [
+        "Dragonborn",
+        "Juggernaut"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.949999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 80.0,
+        "hp": 1200.0,
+        "initialMana": 0,
+        "magicResist": 60.0,
+        "mana": 40.0,
+        "range": 1.0
+      }
+    },
+    "tft16_galio": {
+      "name": "Galio",
+      "cost": 5,
+      "traits": [
+        "Demacia",
+        "Heroic"
+      ],
+      "stats": {
+        "armor": 65.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 1100.0,
+        "initialMana": 90.0,
+        "magicResist": 65.0,
+        "mana": 140.0,
+        "range": 1.0
+      }
+    },
+    "tft16_tahmkench": {
+      "name": "Tahm Kench",
+      "cost": 5,
+      "traits": [
+        "Bilgewater",
+        "Glutton",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.550000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 70.0,
+        "hp": 1100.0,
+        "initialMana": 10.0,
+        "magicResist": 60.0,
+        "mana": 90.0,
+        "range": 1.0
+      }
+    },
+    "tft16_sejuani": {
+      "name": "Sejuani",
+      "cost": 3,
+      "traits": [
+        "Freljord",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 900.0,
+        "initialMana": 40.0,
+        "magicResist": 50.0,
+        "mana": 80.0,
+        "range": 1.0
+      }
+    },
+    "tft16_sett": {
+      "name": "Sett",
+      "cost": 5,
+      "traits": [
+        "Ionia",
+        "The Boss"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 1000.0,
+        "initialMana": 10.0,
+        "magicResist": 50.0,
+        "mana": 90.0,
+        "range": 1.0
+      }
+    },
+    "tft16_brock": {
+      "name": "Brock",
+      "cost": 5,
+      "traits": [
+        "Ixtal"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.5,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 270.0,
+        "hp": 1800.0,
+        "initialMana": 40.0,
+        "magicResist": 60.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_thex": {
+      "name": "T-Hex",
+      "cost": 5,
+      "traits": [
+        "HexMech",
+        "Piltover",
+        "Gunslinger"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 75.0,
+        "hp": 1400.0,
+        "initialMana": 30.0,
+        "magicResist": 70.0,
+        "mana": 100,
+        "range": 2.0
+      }
+    },
+    "tft16_belveth": {
+      "name": "Bel'Veth",
+      "cost": 4,
+      "traits": [
+        "Void",
+        "Slayer"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.8500000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 1000.0,
+        "initialMana": 0,
+        "magicResist": 50.0,
+        "mana": 100,
+        "range": 2.0
+      }
+    },
+    "tft16_singed": {
+      "name": "Singed",
+      "cost": 4,
+      "traits": [
+        "Zaun",
+        "Juggernaut"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 15.0,
+        "hp": 1100.0,
+        "initialMana": 0,
+        "magicResist": 60.0,
+        "mana": 80.0,
+        "range": 1.0
+      }
+    },
+    "tft16_aurelionsol": {
+      "name": "Aurelion Sol",
+      "cost": 5,
+      "traits": [
+        "Star Forger",
+        "Targon"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 1100.0,
+        "initialMana": 20.0,
+        "magicResist": 40.0,
+        "mana": 90.0,
+        "range": 4.0
+      }
+    },
+    "tft16_veigar": {
+      "name": "Veigar",
+      "cost": 4,
+      "traits": [
+        "Yordle",
+        "Arcanist"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 33.0,
+        "hp": 800.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 60.0,
+        "range": 4.0
+      }
+    },
+    "tft16_baronnashor": {
+      "name": "Baron Nashor",
+      "cost": 5,
+      "traits": [
+        "Void",
+        "Riftscourge"
+      ],
+      "stats": {
+        "armor": 85.0,
+        "attackSpeed": 0.5,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 120.0,
+        "hp": 3000.0,
+        "initialMana": 0,
+        "magicResist": 85.0,
+        "mana": 50.0,
+        "range": 2.0
+      }
+    },
+    "tft16_darius": {
+      "name": "Darius",
+      "cost": 3,
+      "traits": [
+        "Noxus",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 900.0,
+        "initialMana": 15.0,
+        "magicResist": 50.0,
+        "mana": 75.0,
+        "range": 1.0
+      }
+    },
+    "tft16_yone": {
+      "name": "Yone",
+      "cost": 4,
+      "traits": [
+        "Ionia",
+        "Slayer"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 20.0,
+        "hp": 1100.0,
+        "initialMana": 30.0,
+        "magicResist": 60.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_warwick": {
+      "name": "Warwick",
+      "cost": 4,
+      "traits": [
+        "Zaun",
+        "Quickstriker"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 1200.0,
+        "initialMana": 0,
+        "magicResist": 60.0,
+        "mana": 90.0,
+        "range": 1.0
+      }
+    },
+    "tft16_fizz": {
+      "name": "Fizz",
+      "cost": 4,
+      "traits": [
+        "Bilgewater",
+        "Yordle"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 1000.0,
+        "initialMana": 0,
+        "magicResist": 50.0,
+        "mana": 20.0,
+        "range": 1.0
+      }
+    },
+    "tft16_poppy": {
+      "name": "Poppy ",
+      "cost": 2,
+      "traits": [
+        "Demacia",
+        "Yordle",
+        "Juggernaut"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 850.0,
+        "initialMana": 40.0,
+        "magicResist": 45.0,
+        "mana": 80.0,
+        "range": 1.0
+      }
+    },
+    "tft16_kennen": {
+      "name": "Kennen ",
+      "cost": 3,
+      "traits": [
+        "Ionia",
+        "Yordle",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 900.0,
+        "initialMana": 70.0,
+        "magicResist": 50.0,
+        "mana": 125.0,
+        "range": 1.0
+      }
+    },
+    "tft16_ziggs": {
+      "name": "Ziggs ",
+      "cost": 5,
+      "traits": [
+        "Zaun",
+        "Yordle",
+        "Longshot"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.8500000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": null,
+        "hp": 900.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 160.0,
+        "range": 6.0
+      }
+    },
+    "tft16_aatrox": {
+      "name": "Aatrox ",
+      "cost": 5,
+      "traits": [
+        "Darkin",
+        "World Ender",
+        "Slayer"
+      ],
+      "stats": {
+        "armor": 55.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 900.0,
+        "initialMana": 0,
+        "magicResist": 55.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_volibear": {
+      "name": "Volibear ",
+      "cost": 5,
+      "traits": [
+        "Freljord",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 55.0,
+        "hp": 1200.0,
+        "initialMana": 0,
+        "magicResist": 60.0,
+        "mana": 20.0,
+        "range": 1.0
+      }
+    },
+    "tft16_jhin": {
+      "name": "Jhin",
+      "cost": 1,
+      "traits": [
+        "Ionia",
+        "Gunslinger"
+      ],
+      "stats": {
+        "armor": 24.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 48.0,
+        "hp": 444.0,
+        "initialMana": 0,
+        "magicResist": 24.0,
+        "mana": 70.0,
+        "range": 4.0
+      }
+    },
+    "tft16_piltoverinvention": {
+      "name": "Piltover Invention",
+      "cost": 1,
+      "traits": [],
+      "stats": {
+        "armor": 65.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 1.0,
+        "initialMana": 0,
+        "magicResist": 65.0,
+        "mana": 0.0,
+        "range": 33.0
+      }
+    },
+    "tft16_malzaharvoidling": {
+      "name": "MalzaharVoidling",
+      "cost": 11,
+      "traits": [],
+      "stats": {
+        "armor": null,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": null,
+        "hp": null,
+        "initialMana": 0,
+        "magicResist": 20.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_azirsoldier": {
+      "name": "Sand Soldier",
+      "cost": 11,
+      "traits": [],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 0.0,
+        "hp": 750.0,
+        "initialMana": 0,
+        "magicResist": 50.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_sylas": {
+      "name": "Sylas ",
+      "cost": 5,
+      "traits": [
+        "Chainbreaker",
+        "Arcanist",
+        "Defender"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 1600.0,
+        "initialMana": 0,
+        "magicResist": 70.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_ryze": {
+      "name": "Ryze ",
+      "cost": 5,
+      "traits": [
+        "Rune Mage"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 35.0,
+        "hp": 1000.0,
+        "initialMana": 0,
+        "magicResist": 40.0,
+        "mana": 45.0,
+        "range": 4.0
+      }
+    },
+    "tft16_nidalee": {
+      "name": "Nidalee ",
+      "cost": 4,
+      "traits": [
+        "Ixtal",
+        "Huntress"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 45.0,
+        "hp": 1100.0,
+        "initialMana": 0,
+        "magicResist": 70.0,
+        "mana": 40.0,
+        "range": 1.0
+      }
+    },
+    "tft16_tryndamere": {
+      "name": "Tryndamere ",
+      "cost": 2,
+      "traits": [
+        "Freljord",
+        "Slayer"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 750.0,
+        "initialMana": 0,
+        "magicResist": 45.0,
+        "mana": 50.0,
+        "range": 1.0
+      }
+    },
+    "tft16_riftherald": {
+      "name": "Rift Herald ",
+      "cost": 4,
+      "traits": [
+        "Void",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 1100.0,
+        "initialMana": 60.0,
+        "magicResist": 60.0,
+        "mana": 125.0,
+        "range": 1.0
+      }
+    },
+    "tft16_mel": {
+      "name": "Mel ",
+      "cost": 5,
+      "traits": [
+        "Noxus",
+        "Disruptor"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 900.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 200.0,
+        "range": 4.0
+      }
+    },
+    "tft16_graves": {
+      "name": "Graves ",
+      "cost": 2,
+      "traits": [
+        "Bilgewater",
+        "Gunslinger"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 55.0,
+        "hp": 750.0,
+        "initialMana": 0,
+        "magicResist": 45.0,
+        "mana": 50.0,
+        "range": 2.0
+      }
+    },
+    "tft16_skarner": {
+      "name": "Skarner ",
+      "cost": 4,
+      "traits": [
+        "Ixtal"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 1400.0,
+        "initialMana": 60.0,
+        "magicResist": 70.0,
+        "mana": 120.0,
+        "range": 1.0
+      }
+    },
+    "tft16_diana": {
+      "name": "Diana ",
+      "cost": 4,
+      "traits": [
+        "Targon"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 45.0,
+        "hp": 1300.0,
+        "initialMana": 0,
+        "magicResist": 70.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_kaisa": {
+      "name": "Kai'Sa ",
+      "cost": 4,
+      "traits": [
+        "Assimilator",
+        "Void",
+        "Longshot"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.5,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 850.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 10.0,
+        "range": 6.0
+      }
+    },
+    "tft16_renekton": {
+      "name": "Renekton ",
+      "cost": 4,
+      "traits": [
+        "Shurima"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 75.0,
+        "hp": 1400.0,
+        "initialMana": 0,
+        "magicResist": 70.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_nasus": {
+      "name": "Nasus ",
+      "cost": 4,
+      "traits": [
+        "Shurima"
+      ],
+      "stats": {
+        "armor": 70.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 1500.0,
+        "initialMana": 10.0,
+        "magicResist": 70.0,
+        "mana": 70.0,
+        "range": 1.0
+      }
+    },
+    "tft16_xerath": {
+      "name": "Xerath ",
+      "cost": 5,
+      "traits": [
+        "Shurima",
+        "Ascendant"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 40.0,
+        "hp": 900.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 135.0,
+        "range": 4.0
+      }
+    },
+    "tft16_thresh": {
+      "name": "Thresh ",
+      "cost": 5,
+      "traits": [
+        "Shadow Isles",
+        "Warden"
+      ],
+      "stats": {
+        "armor": 75.0,
+        "attackSpeed": 0.8500000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 1200.0,
+        "initialMana": 0,
+        "magicResist": 75.0,
+        "mana": 40.0,
+        "range": 1.0
+      }
+    },
+    "tft16_gwen": {
+      "name": "Gwen ",
+      "cost": 3,
+      "traits": [
+        "Shadow Isles",
+        "Disruptor"
+      ],
+      "stats": {
+        "armor": 55.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 40.0,
+        "hp": 850.0,
+        "initialMana": 0,
+        "magicResist": 55.0,
+        "mana": 30.0,
+        "range": 2.0
+      }
+    },
+    "tft16_kalista": {
+      "name": "Kalista ",
+      "cost": 4,
+      "traits": [
+        "Shadow Isles",
+        "Vanquisher"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 800.0,
+        "initialMana": 20.0,
+        "magicResist": 30.0,
+        "mana": 70.0,
+        "range": 4.0
+      }
+    },
+    "tft16_leblanc": {
+      "name": "LeBlanc ",
+      "cost": 3,
+      "traits": [
+        "Noxus",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 25.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 35.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 25.0,
+        "mana": 60.0,
+        "range": 4.0
+      }
+    },
+    "tft16_viego": {
+      "name": "Viego",
+      "cost": 1,
+      "traits": [
+        "Shadow Isles",
+        "Quickstriker"
+      ],
+      "stats": {
+        "armor": 35.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 40.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 35.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_ekko": {
+      "name": "Ekko",
+      "cost": 2,
+      "traits": [
+        "Zaun",
+        "Disruptor"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.8500000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 35.0,
+        "hp": 750.0,
+        "initialMana": 0,
+        "magicResist": 50.0,
+        "mana": 40.0,
+        "range": 1.0
+      }
+    },
+    "tft16_bard": {
+      "name": "Bard ",
+      "cost": 2,
+      "traits": [
+        "Caretaker"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 750.0,
+        "initialMana": 0,
+        "magicResist": 20.0,
+        "mana": 55.0,
+        "range": 4.0
+      }
+    },
+    "tft16_vayne": {
+      "name": "Vayne",
+      "cost": 3,
+      "traits": [
+        "Demacia",
+        "Longshot"
+      ],
+      "stats": {
+        "armor": 25.0,
+        "attackSpeed": 0.8999999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 70.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 25.0,
+        "mana": 40.0,
+        "range": 6.0
+      }
+    },
+    "tft16_atakhan": {
+      "name": "Atakhan",
+      "cost": 11,
+      "traits": [],
+      "stats": {
+        "armor": 0.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 320.0,
+        "initialMana": 50.0,
+        "magicResist": null,
+        "mana": 110.0,
+        "range": 1.0
+      }
+    },
+    "tft16_yunara": {
+      "name": "Yunara",
+      "cost": 4,
+      "traits": [
+        "Ionia",
+        "Quickstriker"
+      ],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 800.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 50.0,
+        "range": 4.0
+      }
+    },
+    "tft16_swain": {
+      "name": "Swain",
+      "cost": 4,
+      "traits": [
+        "Noxus",
+        "Arcanist",
+        "Juggernaut"
+      ],
+      "stats": {
+        "armor": 60.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 40.0,
+        "hp": 1200.0,
+        "initialMana": 50.0,
+        "magicResist": 60.0,
+        "mana": 145.0,
+        "range": 1.0
+      }
+    },
+    "tft16_xinzhao": {
+      "name": "Xin Zhao",
+      "cost": 2,
+      "traits": [
+        "Demacia",
+        "Ionia",
+        "Warden"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 850.0,
+        "initialMana": 15.0,
+        "magicResist": 45.0,
+        "mana": 70.0,
+        "range": 1.0
+      }
+    },
+    "tft16_yorick": {
+      "name": "Yorick ",
+      "cost": 2,
+      "traits": [
+        "Shadow Isles",
+        "Warden"
+      ],
+      "stats": {
+        "armor": 45.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 850.0,
+        "initialMana": 15.0,
+        "magicResist": 45.0,
+        "mana": 75.0,
+        "range": 1.0
+      }
+    },
+    "tft16_orianna": {
+      "name": "Orianna ",
+      "cost": 2,
+      "traits": [
+        "Piltover",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 20.0,
+        "attackSpeed": 0.699999988079071,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 30.0,
+        "hp": 550.0,
+        "initialMana": 20.0,
+        "magicResist": 20.0,
+        "mana": 60.0,
+        "range": 4.0
+      }
+    },
+    "tft16_qiyana": {
+      "name": "Qiyana",
+      "cost": 1,
+      "traits": [
+        "Ixtal",
+        "Slayer"
+      ],
+      "stats": {
+        "armor": 35.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 42.0,
+        "hp": 650.0,
+        "initialMana": 0,
+        "magicResist": 35.0,
+        "mana": 30.0,
+        "range": 1.0
+      }
+    },
+    "tft16_loris": {
+      "name": "Loris",
+      "cost": 3,
+      "traits": [
+        "Piltover",
+        "Warden"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 950.0,
+        "initialMana": 70.0,
+        "magicResist": 50.0,
+        "mana": 140.0,
+        "range": 1.0
+      }
+    },
+    "tft16_blitzcrank": {
+      "name": "Blitzcrank",
+      "cost": 1,
+      "traits": [
+        "Zaun",
+        "Juggernaut"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.550000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 700.0,
+        "initialMana": 60.0,
+        "magicResist": 40.0,
+        "mana": 120.0,
+        "range": 1.0
+      }
+    },
+    "tft16_freljordprop": {
+      "name": "Frozen Tower",
+      "cost": 11,
+      "traits": [],
+      "stats": {
+        "armor": 30.0,
+        "attackSpeed": 0.20000000298023224,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 0.0,
+        "hp": 400.0,
+        "initialMana": 0,
+        "magicResist": 30.0,
+        "mana": 0.0,
+        "range": 1.0
+      }
+    },
+    "tft16_drmundo": {
+      "name": "Dr. Mundo",
+      "cost": 3,
+      "traits": [
+        "Zaun",
+        "Bruiser"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.6000000238418579,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 50.0,
+        "hp": 900.0,
+        "initialMana": 0,
+        "magicResist": 50.0,
+        "mana": 60.0,
+        "range": 1.0
+      }
+    },
+    "tft16_zaahen": {
+      "name": "Zaahen",
+      "cost": 5,
+      "traits": [
+        "Darkin",
+        "Immortal"
+      ],
+      "stats": {
+        "armor": 80.0,
+        "attackSpeed": 1.100000023841858,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 60.0,
+        "hp": 1200.0,
+        "initialMana": 0,
+        "magicResist": 80.0,
+        "mana": 40.0,
+        "range": 2.0
+      }
+    },
+    "tft16_annietibbers": {
+      "name": "Tibbers",
+      "cost": 11,
+      "traits": [
+        "Arcanist"
+      ],
+      "stats": {
+        "armor": 80.0,
+        "attackSpeed": 0.75,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 90.0,
+        "hp": 1500.0,
+        "initialMana": 40.0,
+        "magicResist": 80.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft16_lucian": {
+      "name": "Lucian & Senna",
+      "cost": 5,
+      "traits": [
+        "Soulbound",
+        "Gunslinger"
+      ],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 65.0,
+        "hp": 900.0,
+        "initialMana": 0,
+        "magicResist": 40.0,
+        "mana": 70.0,
+        "range": 4.0
+      }
+    },
+    "tft16_kobuko": {
+      "name": "Kobuko & Yuumi",
+      "cost": 3,
+      "traits": [
+        "Yordle",
+        "Bruiser",
+        "Invoker"
+      ],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.6499999761581421,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 20.0,
+        "hp": 950.0,
+        "initialMana": 30.0,
+        "magicResist": 50.0,
+        "mana": 90.0,
+        "range": 1.0
+      }
+    },
+    "tft_bluegolem": {
+      "name": "Golem",
+      "cost": 1,
+      "traits": [],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.550000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 55.0,
+        "hp": 600.0,
+        "initialMana": 30.0,
+        "magicResist": 40.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft9_slime_crab": {
+      "name": "Rift Scuttler",
+      "cost": 1,
+      "traits": [],
+      "stats": {
+        "armor": 10.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 20.0,
+        "hp": null,
+        "initialMana": 0,
+        "magicResist": 10.0,
+        "mana": 100,
+        "range": 1.0
+      }
+    },
+    "tft_trainingdummy": {
+      "name": "Training Dummy",
+      "cost": 1,
+      "traits": [],
+      "stats": {
+        "armor": 40.0,
+        "attackSpeed": 0.5,
+        "critChance": null,
+        "critMultiplier": 0.0,
+        "damage": 50.0,
+        "hp": 550.0,
+        "initialMana": 0,
+        "magicResist": 40.0,
+        "mana": 0.0,
+        "range": 1.0
+      }
+    },
+    "tft_elderdragon": {
+      "name": "Elder Dragon",
+      "cost": 1,
+      "traits": [],
+      "stats": {
+        "armor": 50.0,
+        "attackSpeed": 0.800000011920929,
+        "critChance": 0.25,
+        "critMultiplier": 1.399999976158142,
+        "damage": 900.0,
+        "hp": 10000.0,
+        "initialMana": 0,
+        "magicResist": 50.0,
+        "mana": 0.0,
+        "range": 2.0
+      }
+    }
+  },
+  "traits": {
+    "poison pals": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 2,
+          "style": 4,
+          "variables": {
+            "FireInterval": 3,
+            "SingedAP": 40.0,
+            "TeemoEffectiveness": 0.5,
+            "{85281eea}": 50.0
+          }
+        }
+      ]
+    },
+    "ascendant": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {}
+        }
+      ]
+    },
+    "freljord": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 4,
+          "minUnits": 3,
+          "style": 1,
+          "variables": {
+            "DA": 0.10000000149011612,
+            "FreljordBonus": 1.5,
+            "HealthPercent": 0.07999999821186066,
+            "StunDuration": null,
+            "{03c21e23}": null,
+            "{7dced3cd}": 1.0
+          }
+        },
+        {
+          "maxUnits": 6,
+          "minUnits": 5,
+          "style": 3,
+          "variables": {
+            "DA": 0.1599999964237213,
+            "FreljordBonus": 1.5,
+            "HealthPercent": 0.11999999731779099,
+            "StunDuration": null,
+            "{03c21e23}": 1.0,
+            "{7dced3cd}": 2.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 7,
+          "style": 5,
+          "variables": {
+            "DA": 0.2199999988079071,
+            "FreljordBonus": 1.5,
+            "HealthPercent": 0.1599999964237213,
+            "StunDuration": 1.5,
+            "{03c21e23}": 1.0,
+            "{7dced3cd}": 2.0
+          }
+        }
+      ]
+    },
+    "juggernaut": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "BaseDR": 0.18000000715255737,
+            "HealRatio": 0.05000000074505806,
+            "HealthBreakpoint": 0.5,
+            "IncreasedDR": 0.25
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "BaseDR": 0.20000000298023224,
+            "HealRatio": 0.05000000074505806,
+            "HealthBreakpoint": 0.5,
+            "IncreasedDR": 0.30000001192092896
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 6,
+          "style": 5,
+          "variables": {
+            "BaseDR": 0.25,
+            "HealRatio": 0.05000000074505806,
+            "HealthBreakpoint": 0.5,
+            "IncreasedDR": 0.33000001311302185
+          }
+        }
+      ]
+    },
+    "quickstriker": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 2,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "MaxBonusAS": 0.30000001192092896,
+            "MinBonusAS": 0.10000000149011612,
+            "TeamwideAS": 0.15000000596046448
+          }
+        },
+        {
+          "maxUnits": 3,
+          "minUnits": 3,
+          "style": 3,
+          "variables": {
+            "MaxBonusAS": 0.44999998807907104,
+            "MinBonusAS": 0.20000000298023224,
+            "TeamwideAS": 0.15000000596046448
+          }
+        },
+        {
+          "maxUnits": 4,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "MaxBonusAS": 0.6000000238418579,
+            "MinBonusAS": 0.30000001192092896,
+            "TeamwideAS": 0.15000000596046448
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 5,
+          "style": 5,
+          "variables": {
+            "MaxBonusAS": 0.800000011920929,
+            "MinBonusAS": 0.4000000059604645,
+            "TeamwideAS": 0.15000000596046448
+          }
+        }
+      ]
+    },
+    "longshot": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 2,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "BaseDamageAmp": 0.18000000715255737,
+            "PercentDamageIncrease": 0.019999999552965164
+          }
+        },
+        {
+          "maxUnits": 3,
+          "minUnits": 3,
+          "style": 3,
+          "variables": {
+            "BaseDamageAmp": 0.23999999463558197,
+            "PercentDamageIncrease": 0.029999999329447746
+          }
+        },
+        {
+          "maxUnits": 4,
+          "minUnits": 4,
+          "style": 5,
+          "variables": {
+            "BaseDamageAmp": 0.2800000011920929,
+            "PercentDamageIncrease": 0.03999999910593033
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 5,
+          "style": 5,
+          "variables": {
+            "BaseDamageAmp": 0.3199999928474426,
+            "PercentDamageIncrease": 0.05000000074505806
+          }
+        }
+      ]
+    },
+    "vanquisher": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 2,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "BaseCritChance": 15.0,
+            "CritDmg": 15.0
+          }
+        },
+        {
+          "maxUnits": 3,
+          "minUnits": 3,
+          "style": 3,
+          "variables": {
+            "BaseCritChance": 20.0,
+            "CritDmg": 20.0
+          }
+        },
+        {
+          "maxUnits": 4,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "BaseCritChance": 25.0,
+            "CritDmg": 25.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 5,
+          "style": 5,
+          "variables": {
+            "BaseCritChance": 30.0,
+            "CritDmg": 30.0
+          }
+        }
+      ]
+    },
+    "caretaker": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {}
+        }
+      ]
+    },
+    "ixtal": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 4,
+          "minUnits": 3,
+          "style": 1,
+          "variables": {
+            "BonusHealth_Pairs": null,
+            "Heal": null
+          }
+        },
+        {
+          "maxUnits": 6,
+          "minUnits": 5,
+          "style": 3,
+          "variables": {
+            "BonusHealth_Pairs": 250,
+            "Heal": 2.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 7,
+          "style": 5,
+          "variables": {
+            "BonusClues": 50.0,
+            "BonusHealth_Pairs": 250,
+            "Heal": 2.0
+          }
+        }
+      ]
+    },
+    "slayer": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "AmountIncrease": 0.5,
+            "BonusAD": 0.2199999988079071,
+            "BonusOmnivamp": 0.10000000149011612
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "AmountIncrease": 0.5,
+            "BonusAD": 0.33000001311302185,
+            "BonusOmnivamp": 0.1599999964237213
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 6,
+          "style": 5,
+          "variables": {
+            "AmountIncrease": 0.5,
+            "BonusAD": 0.4399999976158142,
+            "BonusOmnivamp": 0.20000000298023224
+          }
+        }
+      ]
+    },
+    "arcanist": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "AllyAP": 18.0,
+            "BonusAP": 25.0
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "AllyAP": 25.0,
+            "BonusAP": 40.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 6,
+          "style": 5,
+          "variables": {
+            "AllyAP": 40.0,
+            "BonusAP": 60.0
+          }
+        }
+      ]
+    },
+    "emperor": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {}
+        }
+      ]
+    },
+    "star forger": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "BonusStardustPerOneStar": 0.20000000298023224,
+            "BonusStardustPerThreeStar": 1.0,
+            "BonusStardustPerTwoStar": 0.6000000238418579
+          }
+        }
+      ]
+    },
+    "dragonborn": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "AbilityDamageReduction": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    "gunslinger": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "AD": 0.20000000298023224,
+            "BonusDamage": 100,
+            "NumAttacks": 4
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 4,
+          "style": 5,
+          "variables": {
+            "AD": 0.3499999940395355,
+            "BonusDamage": 200,
+            "NumAttacks": 4
+          }
+        }
+      ]
+    },
+    "hexmech": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "AD1": 15.0,
+            "AD2": 25.0,
+            "AD3": 40.0,
+            "Amp1": 10.0,
+            "Amp2": 18.0,
+            "Amp3": 30.0,
+            "Crit1": 30.0,
+            "Crit2": 60.0,
+            "Crit3": 100.0,
+            "Mana1": 3.0,
+            "Mana2": 6.0,
+            "Mana3": 12.0,
+            "PercentHealth": 0.800000011920929,
+            "StunDuration": 1.5,
+            "Vamp1": 15.0,
+            "Vamp2": 25.0,
+            "Vamp3": 40.0,
+            "{99dbd967}": 0.5
+          }
+        }
+      ]
+    },
+    "chosen wolves": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 2,
+          "style": 4,
+          "variables": {
+            "AmbessaBonusAD": 0.30000001192092896,
+            "WolfDamage": 0.25
+          }
+        }
+      ]
+    },
+    "chainbreaker": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {}
+        }
+      ]
+    },
+    "soulbound": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "LucianDA": 0.07000000029802322,
+            "SennaDR": 0.07000000029802322
+          }
+        }
+      ]
+    },
+    "piltover": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "InventionFireTime": 8.0
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "InventionFireTime": 8.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 6,
+          "style": 5,
+          "variables": {
+            "InventionFireTime": 8.0
+          }
+        }
+      ]
+    },
+    "timewinders": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 1,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "EkkoCastsToGainXP": 2,
+            "EkkoXPGain": 1,
+            "ZileanSpeedUp": 2.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 2,
+          "style": 4,
+          "variables": {
+            "EkkoCastsToGainXP": 2,
+            "EkkoXPGain": 1,
+            "ZileanSpeedUp": 2.0
+          }
+        }
+      ]
+    },
+    "darkin": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 1,
+          "minUnits": 1,
+          "style": 1,
+          "variables": {
+            "Damage": 100,
+            "EnemyNum": 2,
+            "HealThreshold": 600,
+            "TacticianPercent": 0.25,
+            "Vamp": 0.15000000596046448
+          }
+        },
+        {
+          "maxUnits": 2,
+          "minUnits": 2,
+          "style": 3,
+          "variables": {
+            "Damage": 100,
+            "EnemyNum": 2,
+            "HealThreshold": 600,
+            "TacticianPercent": 0.25,
+            "Vamp": 0.15000000596046448
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 3,
+          "style": 5,
+          "variables": {
+            "Damage": 100,
+            "EnemyNum": 2,
+            "HealThreshold": 600,
+            "TacticianPercent": 0.25,
+            "Vamp": 0.15000000596046448
+          }
+        }
+      ]
+    },
+    "eternal": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "PercentDamageMult": 3.5
+          }
+        }
+      ]
+    },
+    "dark child": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {}
+        }
+      ]
+    },
+    "world ender": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "Durability": 0.20000000298023224,
+            "HealDuration": 2.0,
+            "ManaReduction": 20.0,
+            "{63ed7d87}": 1.0
+          }
+        }
+      ]
+    },
+    "assimilator": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {}
+        }
+      ]
+    },
+    "dragonguards": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 2,
+          "style": 4,
+          "variables": {
+            "JarvanResistDamage": 1.850000023841858,
+            "JarvanShieldShare": 1.0
+          }
+        }
+      ]
+    },
+    "disruptor": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "DamageAmp": 0.18000000715255737,
+            "DamageReduction": 0.10000000149011612
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 4,
+          "style": 5,
+          "variables": {
+            "DamageAmp": 0.4000000059604645,
+            "DamageReduction": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    "void": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "BonusAS": 0.07999999821186066,
+            "NumMutations": 1,
+            "SuperchargedMult": null
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "BonusAS": 0.18000000715255737,
+            "NumMutations": 2,
+            "{12afd090}": null
+          }
+        },
+        {
+          "maxUnits": 8,
+          "minUnits": 6,
+          "style": 5,
+          "variables": {
+            "BonusAS": 0.33000001311302185,
+            "NumMutations": 3,
+            "SuperchargedMult": null
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 9,
+          "style": 5,
+          "variables": {
+            "BonusAS": 0.4000000059604645,
+            "NumMutations": 3,
+            "SuperchargedMult": 1.0
+          }
+        }
+      ]
+    },
+    "rune mage": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {}
+        }
+      ]
+    },
+    "the boss": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "AttackSpeedPercent": 60.0,
+            "HealPercent": 15.0,
+            "MaxHealthThreshold": 0.44999998807907104
+          }
+        }
+      ]
+    },
+    "glutton": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "{6502b165}": 20.0,
+            "{72c78315}": 1.25
+          }
+        }
+      ]
+    },
+    "invoker": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "PercentManaIncrease": 0.25,
+            "TeamBonusMana": 1
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 4,
+          "style": 5,
+          "variables": {
+            "PercentManaIncrease": 0.4000000059604645,
+            "TeamBonusMana": 1
+          }
+        }
+      ]
+    },
+    "demacia": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 4,
+          "minUnits": 3,
+          "style": 1,
+          "variables": {
+            "ArmorMR": 12.0,
+            "EnemyTrueDamage": 0.05000000074505806,
+            "ManaReductionPct": 0.10000000149011612,
+            "MaxHealthLost": 0.25,
+            "{050353fe}": 0.25,
+            "{54b32412}": 1500.0,
+            "{556d8bdf}": 3,
+            "{95d6e9fc}": 0.5
+          }
+        },
+        {
+          "maxUnits": 6,
+          "minUnits": 5,
+          "style": 3,
+          "variables": {
+            "ArmorMR": 35.0,
+            "EnemyTrueDamage": 0.05000000074505806,
+            "ManaReductionPct": 0.10000000149011612,
+            "MaxHealthLost": 0.25,
+            "{050353fe}": 0.25,
+            "{54b32412}": 1500.0,
+            "{556d8bdf}": 3,
+            "{95d6e9fc}": 0.5
+          }
+        },
+        {
+          "maxUnits": 10,
+          "minUnits": 7,
+          "style": 5,
+          "variables": {
+            "ArmorMR": 35.0,
+            "EnemyTrueDamage": 0.05000000074505806,
+            "ManaReductionPct": 0.10000000149011612,
+            "MaxHealthLost": 0.25,
+            "{050353fe}": 0.25,
+            "{54b32412}": 1500.0,
+            "{556d8bdf}": 3,
+            "{95d6e9fc}": 0.5
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 11,
+          "style": 6,
+          "variables": {
+            "ArmorMR": 150.0,
+            "EnemyTrueDamage": 0.05000000074505806,
+            "ManaReductionPct": 0.10000000149011612,
+            "MaxHealthLost": 0.25,
+            "{050353fe}": 0.25,
+            "{54b32412}": 1500.0,
+            "{556d8bdf}": 3,
+            "{95d6e9fc}": 0.5
+          }
+        }
+      ]
+    },
+    "bilgewater": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 4,
+          "minUnits": 3,
+          "style": 1,
+          "variables": {
+            "MaxItems": 8.0,
+            "SerpentsPerRound": 15.0,
+            "SerpentsPerTakedown": 2,
+            "StatMult": 1.0,
+            "{79b25b0f}": 500.0,
+            "{853eaa6d}": 1.5,
+            "{fb25c87b}": 2.0
+          }
+        },
+        {
+          "maxUnits": 6,
+          "minUnits": 5,
+          "style": 3,
+          "variables": {
+            "MaxItems": 8.0,
+            "SerpentsPerRound": 35.0,
+            "SerpentsPerTakedown": 2,
+            "StatMult": 1.0,
+            "{79b25b0f}": 500.0,
+            "{853eaa6d}": 1.5,
+            "{fb25c87b}": 2.0
+          }
+        },
+        {
+          "maxUnits": 9,
+          "minUnits": 7,
+          "style": 5,
+          "variables": {
+            "MaxItems": 8.0,
+            "SerpentsPerRound": 65.0,
+            "SerpentsPerTakedown": 2,
+            "StatMult": 1.0,
+            "{79b25b0f}": 500.0,
+            "{853eaa6d}": 1.5,
+            "{fb25c87b}": 2.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 10,
+          "style": 6,
+          "variables": {
+            "MaxItems": 8.0,
+            "SerpentsPerRound": 150.0,
+            "SerpentsPerTakedown": 2,
+            "StatMult": 2.0,
+            "{79b25b0f}": 500.0,
+            "{853eaa6d}": 1.5,
+            "{fb25c87b}": 2.0
+          }
+        }
+      ]
+    },
+    "riftscourge": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "DamageAmp": 0.30000001192092896,
+            "LightningPercentHealth": 0.05000000074505806,
+            "VoidTime": 8.0,
+            "{79ea70c9}": 0.5
+          }
+        }
+      ]
+    },
+    "targon": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 5,
+          "variables": {}
+        }
+      ]
+    },
+    "shurima": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 2,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "ASPerSecond": 0.019999999552965164,
+            "ArmorMR": null,
+            "BonusHealth": 0.20000000298023224,
+            "GodhoodCadence": null,
+            "HealthRestorePerSecond": 20,
+            "{2b696a57}": null,
+            "{a1f805da}": 0.07999999821186066
+          }
+        },
+        {
+          "maxUnits": 3,
+          "minUnits": 3,
+          "style": 5,
+          "variables": {
+            "ASPerSecond": 0.019999999552965164,
+            "ArmorMR": 50.0,
+            "BonusHealth": 0.20000000298023224,
+            "GodhoodCadence": null,
+            "HealthRestorePerSecond": 20,
+            "{2b696a57}": null,
+            "{a1f805da}": 0.07999999821186066
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 4,
+          "style": 6,
+          "variables": {
+            "ASPerSecond": 0.019999999552965164,
+            "ArmorMR": 50.0,
+            "BonusHealth": 0.20000000298023224,
+            "GodhoodCadence": 3,
+            "HealthRestorePerSecond": 20,
+            "{2b696a57}": 1,
+            "{a1f805da}": 0.07999999821186066
+          }
+        }
+      ]
+    },
+    "blacksmith": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "ArtifactMult": 3.0,
+            "FlatHealthPerItem1Star": 250,
+            "FlatHealthPerItem2Star": 450,
+            "FlatHealthPerItem3Star": 2000.0,
+            "RoundsToCraft": 4,
+            "{85699349}": null
+          }
+        }
+      ]
+    },
+    "shadow isles": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 2,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "ADAP": 0.18000000715255737,
+            "SoulMult": 1.0,
+            "{1e24d16e}": 135.0,
+            "{263593f9}": 65.0,
+            "{2c785ea4}": null,
+            "{30214014}": 25.0,
+            "{570dee69}": 1.0,
+            "{689e69ab}": 160.0,
+            "{b3900e2d}": 215.0,
+            "{cd71fc1d}": 255.0,
+            "{e99a6f18}": 185.0
+          }
+        },
+        {
+          "maxUnits": 3,
+          "minUnits": 3,
+          "style": 3,
+          "variables": {
+            "ADAP": 0.20000000298023224,
+            "SoulMult": 1.2999999523162842,
+            "{1e24d16e}": 135.0,
+            "{263593f9}": 65.0,
+            "{2c785ea4}": null,
+            "{30214014}": 25.0,
+            "{570dee69}": 1.0,
+            "{689e69ab}": 160.0,
+            "{b3900e2d}": 215.0,
+            "{cd71fc1d}": 255.0,
+            "{e99a6f18}": 185.0
+          }
+        },
+        {
+          "maxUnits": 4,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "ADAP": 0.2199999988079071,
+            "SoulMult": 1.600000023841858,
+            "{1e24d16e}": 135.0,
+            "{263593f9}": 65.0,
+            "{2c785ea4}": null,
+            "{30214014}": 25.0,
+            "{570dee69}": 1.0,
+            "{689e69ab}": 160.0,
+            "{b3900e2d}": 215.0,
+            "{cd71fc1d}": 255.0,
+            "{e99a6f18}": 185.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 5,
+          "style": 5,
+          "variables": {
+            "ADAP": 0.25,
+            "SoulMult": 1.899999976158142,
+            "{1e24d16e}": 135.0,
+            "{263593f9}": 65.0,
+            "{2c785ea4}": null,
+            "{30214014}": 25.0,
+            "{570dee69}": 1.0,
+            "{689e69ab}": 160.0,
+            "{b3900e2d}": 215.0,
+            "{cd71fc1d}": 255.0,
+            "{e99a6f18}": 185.0
+          }
+        }
+      ]
+    },
+    "harvester": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "EnemyArmorMRReduction": 10,
+            "ManaPerEnemyDeath": 10.0
+          }
+        }
+      ]
+    },
+    "immortal": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "FocusNeededToRevive": 3,
+            "PercentMaxHealthHeal": 0.6000000238418579,
+            "ReviveDuration": 0.5,
+            "{54747e02}": null
+          }
+        }
+      ]
+    },
+    "heroic": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "HexRadius": 3.0,
+            "KnockupDuration": 1.0,
+            "PercentMaxHP": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    "noxus": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 4,
+          "minUnits": 3,
+          "style": 1,
+          "variables": {
+            "HPLostTrigger": 0.15000000596046448,
+            "RuinTimer": 10
+          }
+        },
+        {
+          "maxUnits": 6,
+          "minUnits": 5,
+          "style": 3,
+          "variables": {
+            "HPLostTrigger": 0.15000000596046448,
+            "RuinTimer": 10
+          }
+        },
+        {
+          "maxUnits": 9,
+          "minUnits": 7,
+          "style": 5,
+          "variables": {
+            "HPLostTrigger": 0.15000000596046448,
+            "RuinTimer": 10
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 10,
+          "style": 6,
+          "variables": {
+            "HPLostTrigger": 0.15000000596046448,
+            "RuinTimer": 10
+          }
+        }
+      ]
+    },
+    "yordle": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "AS": 0.05000000074505806,
+            "BonusHealth": 40.0,
+            "BonusMultiplier": 1.0,
+            "BonusStatMultiplier": 1.0,
+            "FreeRerolls": null,
+            "{12cd8d20}": null,
+            "{94706038}": null,
+            "{9f843340}": 700.0,
+            "{a90bd1e4}": 1.5,
+            "{ada76fc3}": 800.0,
+            "{b46678c7}": 200.0,
+            "{fe25b795}": null
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "AS": 0.05000000074505806,
+            "BonusHealth": 40.0,
+            "BonusMultiplier": 1.0,
+            "BonusStatMultiplier": 1.0,
+            "FreeRerolls": null,
+            "{12cd8d20}": 1.0,
+            "{94706038}": null,
+            "{9f843340}": 700.0,
+            "{a90bd1e4}": 1.5,
+            "{ada76fc3}": 800.0,
+            "{b46678c7}": 200.0,
+            "{fe25b795}": null
+          }
+        },
+        {
+          "maxUnits": 7,
+          "minUnits": 6,
+          "style": 3,
+          "variables": {
+            "AS": 0.05000000074505806,
+            "BonusHealth": 40.0,
+            "BonusMultiplier": 1.0,
+            "BonusStatMultiplier": 1.0,
+            "FreeRerolls": 1.0,
+            "{12cd8d20}": 1.0,
+            "{94706038}": null,
+            "{9f843340}": 700.0,
+            "{a90bd1e4}": 1.5,
+            "{ada76fc3}": 800.0,
+            "{b46678c7}": 200.0,
+            "{fe25b795}": null
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 8,
+          "style": 5,
+          "variables": {
+            "AS": 0.05000000074505806,
+            "BonusHealth": 40.0,
+            "BonusMultiplier": 1.0,
+            "BonusStatMultiplier": 1.0,
+            "FreeRerolls": 1.0,
+            "{12cd8d20}": 1.0,
+            "{94706038}": 1.0,
+            "{9f843340}": 700.0,
+            "{a90bd1e4}": 1.5,
+            "{ada76fc3}": 800.0,
+            "{b46678c7}": 200.0,
+            "{fe25b795}": null
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 10,
+          "style": 6,
+          "variables": {
+            "AS": 0.05000000074505806,
+            "BonusHealth": 40.0,
+            "BonusMultiplier": 1.0,
+            "BonusStatMultiplier": 1.0,
+            "FreeRerolls": 1.0,
+            "{12cd8d20}": 1.0,
+            "{94706038}": 1.0,
+            "{9f843340}": 700.0,
+            "{a90bd1e4}": 1.5,
+            "{ada76fc3}": 800.0,
+            "{b46678c7}": 200.0,
+            "{fe25b795}": 1.0
+          }
+        }
+      ]
+    },
+    "zaun": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 4,
+          "minUnits": 3,
+          "style": 1,
+          "variables": {
+            "HealDuration": 3.0,
+            "HealThreshold": 0.6000000238418579,
+            "InitialDelay": 4.0,
+            "MaxHealthHeal": null,
+            "RefreshSeconds": 4.0,
+            "ReviveDuration": 3.0,
+            "ShimmerFuseAttackSpeed": 0.8999999761581421,
+            "ShimmerFuseDurability": 0.10000000149011612,
+            "ShimmerFuseDuration": 4.0,
+            "ShimmerFustMult": null,
+            "{19b47e58}": 0.3499999940395355
+          }
+        },
+        {
+          "maxUnits": 6,
+          "minUnits": 5,
+          "style": 3,
+          "variables": {
+            "HealDuration": 3.0,
+            "HealThreshold": 0.6000000238418579,
+            "InitialDelay": 4.0,
+            "MaxHealthHeal": 0.25,
+            "RefreshSeconds": 4.0,
+            "ReviveDuration": 3.0,
+            "ShimmerFuseAttackSpeed": 0.8999999761581421,
+            "ShimmerFuseDurability": 0.10000000149011612,
+            "ShimmerFuseDuration": 4.0,
+            "ShimmerFustMult": null,
+            "{19b47e58}": 0.3499999940395355
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 7,
+          "style": 5,
+          "variables": {
+            "HealDuration": 3.0,
+            "HealThreshold": 0.6000000238418579,
+            "InitialDelay": 4.0,
+            "MaxHealthHeal": 0.25,
+            "RefreshSeconds": 3.0,
+            "ReviveDuration": 3.0,
+            "ShimmerFuseAttackSpeed": 0.8999999761581421,
+            "ShimmerFuseDurability": 0.10000000149011612,
+            "ShimmerFuseDuration": 4.0,
+            "ShimmerFustMult": 0.5,
+            "{19b47e58}": 0.3499999940395355
+          }
+        }
+      ]
+    },
+    "bruiser": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "BonusPercentHealth": 0.25,
+            "TeamFlatHealth": 150
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "BonusPercentHealth": 0.44999998807907104,
+            "TeamFlatHealth": 150
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 6,
+          "style": 5,
+          "variables": {
+            "BonusPercentHealth": 0.6499999761581421,
+            "TeamFlatHealth": 150
+          }
+        }
+      ]
+    },
+    "chronokeeper": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "CastsToGainXP": 2,
+            "CastsToGainXPPAIRS": 2,
+            "DAGainAtMaxLevel": 15,
+            "XPPerCast": 1,
+            "{bffe0f35}": null
+          }
+        }
+      ]
+    },
+    "warden": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 2,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "FirstShieldPercentHealth": 0.75,
+            "PercentHealthShield": 0.1599999964237213,
+            "SecondShieldPercentHealth": 0.25
+          }
+        },
+        {
+          "maxUnits": 3,
+          "minUnits": 3,
+          "style": 3,
+          "variables": {
+            "FirstShieldPercentHealth": 0.75,
+            "PercentHealthShield": 0.20000000298023224,
+            "SecondShieldPercentHealth": 0.25
+          }
+        },
+        {
+          "maxUnits": 4,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "FirstShieldPercentHealth": 0.75,
+            "PercentHealthShield": 0.25999999046325684,
+            "SecondShieldPercentHealth": 0.25
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 5,
+          "style": 5,
+          "variables": {
+            "FirstShieldPercentHealth": 0.75,
+            "PercentHealthShield": 0.33000001311302185,
+            "SecondShieldPercentHealth": 0.25
+          }
+        }
+      ]
+    },
+    "ionia": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 4,
+          "minUnits": 3,
+          "style": 1,
+          "variables": {
+            "BladesFlatDamage": 3.0,
+            "BladesPercentChance": 30.0,
+            "DeterminationFlatDamage": 20,
+            "DeterminationResists": 15,
+            "EnlightenmentADAP": 10.0,
+            "EnlightenmentADAPPerLevel": 2.0,
+            "EnlightenmentXP": 1,
+            "GenerosityADAP": 18,
+            "GenerosityIncreasePerGold": 0.019999999552965164,
+            "SpiritADAP": 4.0,
+            "SpiritHealth": 0.20000000298023224,
+            "Transcendence3StarBuff": 0.5,
+            "TranscendenceHealth": 0.10000000149011612,
+            "TranscendenceMagicDamage": 0.2199999988079071,
+            "{11fa863c}": 5.0
+          }
+        },
+        {
+          "maxUnits": 6,
+          "minUnits": 5,
+          "style": 3,
+          "variables": {
+            "BladesFlatDamage": 8.0,
+            "BladesPercentChance": 35.0,
+            "DeterminationFlatDamage": 40,
+            "DeterminationResists": 25,
+            "EnlightenmentADAP": 15.0,
+            "EnlightenmentADAPPerLevel": 3.0,
+            "EnlightenmentXP": 2,
+            "GenerosityADAP": 30,
+            "GenerosityIncreasePerGold": 0.019999999552965164,
+            "SpiritADAP": 4.0,
+            "SpiritHealth": 0.25,
+            "Transcendence3StarBuff": 0.5,
+            "TranscendenceHealth": 0.15000000596046448,
+            "TranscendenceMagicDamage": 0.2800000011920929,
+            "{11fa863c}": 4.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 7,
+          "style": 5,
+          "variables": {
+            "BladesFlatDamage": 15.0,
+            "BladesPercentChance": 40.0,
+            "DeterminationFlatDamage": 60,
+            "DeterminationResists": 40,
+            "EnlightenmentADAP": 20.0,
+            "EnlightenmentADAPPerLevel": 4.0,
+            "EnlightenmentXP": 4,
+            "GenerosityADAP": 40,
+            "GenerosityIncreasePerGold": 0.019999999552965164,
+            "SpiritADAP": 4.0,
+            "SpiritHealth": 0.3499999940395355,
+            "Transcendence3StarBuff": 0.5,
+            "TranscendenceHealth": 0.20000000298023224,
+            "TranscendenceMagicDamage": 0.33000001311302185,
+            "{11fa863c}": 3.0
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 10,
+          "style": 6,
+          "variables": {
+            "BladesFlatDamage": 25.0,
+            "BladesPercentChance": 70.0,
+            "DeterminationFlatDamage": 100,
+            "DeterminationResists": 75,
+            "EnlightenmentADAP": 100.0,
+            "EnlightenmentADAPPerLevel": null,
+            "EnlightenmentXP": null,
+            "GenerosityADAP": 50,
+            "GenerosityIncreasePerGold": 0.019999999552965164,
+            "SpiritADAP": 7.0,
+            "SpiritHealth": 0.75,
+            "Transcendence3StarBuff": 0.5,
+            "TranscendenceHealth": 0.30000001192092896,
+            "TranscendenceMagicDamage": 0.699999988079071,
+            "{0c4f63cb}": 0.05000000074505806,
+            "{11fa863c}": 1.0,
+            "{ab6ec39e}": 1.0,
+            "{cf068040}": 0.4000000059604645,
+            "{ec4adf8d}": 5.0
+          }
+        }
+      ]
+    },
+    "defender": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 3,
+          "minUnits": 2,
+          "style": 1,
+          "variables": {
+            "BonusArmorMR": 30.0,
+            "TeamwideArmorMR": 12
+          }
+        },
+        {
+          "maxUnits": 5,
+          "minUnits": 4,
+          "style": 3,
+          "variables": {
+            "BonusArmorMR": 55.0,
+            "TeamwideArmorMR": 12
+          }
+        },
+        {
+          "maxUnits": 25000,
+          "minUnits": 6,
+          "style": 5,
+          "variables": {
+            "BonusArmorMR": 80.0,
+            "TeamwideArmorMR": 12
+          }
+        }
+      ]
+    },
+    "sentinels of light": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 2,
+          "style": 4,
+          "variables": {
+            "BoltEffectiveness": 0.25,
+            "LucianSennaAS": 0.5,
+            "NumBonusBolts": 2
+          }
+        }
+      ]
+    },
+    "huntress": {
+      "display_name": "",
+      "effects": [
+        {
+          "maxUnits": 25000,
+          "minUnits": 1,
+          "style": 4,
+          "variables": {
+            "Durability": 0.5
+          }
+        }
+      ]
+    }
+  },
+  "items": {}
+}

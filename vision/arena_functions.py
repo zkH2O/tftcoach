@@ -7,11 +7,19 @@ import threading
 from PIL import ImageGrab
 import numpy as np
 import requests
-import screen_coords
-import ocr
-import game_assets
-import mk_functions
-from vec4 import Vec4
+
+# Local vision module imports
+from . import screen_coords
+from . import ocr_engine as ocr
+from .vec4 import Vec4
+
+# Data module imports
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent))
+from data import game_assets
+
+# TODO: mk_functions module not found in repo - needs to be created or imported
 
 
 def get_level() -> int:

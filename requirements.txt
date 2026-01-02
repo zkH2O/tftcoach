@@ -1,0 +1,21 @@
+# TFT Coach - Python Dependencies
+
+# Core dependencies
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Image processing and OCR (for vision module)
+Pillow>=10.0.0
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+
+# GUI (for future UI module)
+PyQt6>=6.5.0
+
+# Utilities
+python-dateutil>=2.8.2
+
+# Development
+pytest>=7.4.0
+black>=23.0.0

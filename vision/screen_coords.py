@@ -4,8 +4,8 @@ Screen coords for 1920x1080 screens
 (x, y, x+w, y+h) for Vec4 locations, (x, y) for Vec2 locations
 """
 
-from vec4 import Vec4, GameWindow
-from vec2 import Vec2
+from .vec4 import Vec4, GameWindow
+from .vec2 import Vec2
 
 BENCH_HEALTH_POS: list[Vec4] = [
     Vec4(GameWindow(369, 650, 472, 757)),
